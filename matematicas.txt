@@ -1,3 +1,5 @@
 esto es un fichero de texto para nuestro repositorio
 
-primer cambio de este archivp
+primer cambio de este archivo
+
+línea para hacer ejemplo de subir solo archivos txt
