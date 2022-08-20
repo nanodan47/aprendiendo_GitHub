@@ -3,3 +3,5 @@ esto es un fichero de texto para nuestro repositorio
 primer cambio de este archivo
 
 línea para hacer ejemplo de subir solo archivos txt --> segunda prueba
+
+otra línea para probar el comando git diff
